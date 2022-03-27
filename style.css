@@ -1,0 +1,36 @@
+.divA1{
+    background-color: red;
+    height: 50px;
+    width: 50px;
+    border: 2px solid green;
+    margin: 100px 0px 0px 0px;
+}
+
+.divB1{
+    background-color: black;
+    height: 50vh;
+    width: 50%;
+    border: 10px dashed red;
+    margin: 100px 0px 0px 100px;
+}
+
+.divA2{
+    background-color: rgb(200,162,200);
+    height: 250px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.filhoA2{
+    background-color: #FF007F;
+    height: 100%;
+    width: 250px;
+    border: 20px solid red;
+}
+
+.filhoB2{
+    background-color: #03bb85;
+    height: 88%;
+    width: 30%;
+}
